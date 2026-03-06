@@ -25,4 +25,3 @@ The section headers should reflect the structure in the template, including the 
    - Provide example input/output in code blocks if helpful.
 
 Do not include extra sections unless explicitly specified.
-
