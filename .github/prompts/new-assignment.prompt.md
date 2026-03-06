@@ -1,5 +1,4 @@
 ---
-name: new-assignment
 agent: agent
 description: Create a new programming homework assignment
 argument-hint: Provide assignment details
